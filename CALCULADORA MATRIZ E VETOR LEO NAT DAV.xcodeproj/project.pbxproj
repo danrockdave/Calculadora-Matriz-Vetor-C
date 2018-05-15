@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B41DD9A820A2600C001E28FD /* CALCULADORA MATRIZ E VETOR LEO NAT DAV */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CALCULADORA MATRIZ E VETOR LEO NAT DAV"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B41DD9AB20A2600C001E28FD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		B42CD66620A4B1540001EE19 /* Mat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Mat.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B41DD9AB20A2600C001E28FD /* main.c */,
+				B42CD66620A4B1540001EE19 /* Mat.h */,
 			);
 			path = "CALCULADORA MATRIZ E VETOR LEO NAT DAV";
 			sourceTree = "<group>";
